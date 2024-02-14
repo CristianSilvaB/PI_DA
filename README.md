@@ -89,7 +89,6 @@ Es importante tener en cuenta que durante el año 2020 se produjo una reducción
 
 - Al replantear y evaluar cualquier acción basada en estos análisis, es pertienente tomar en consideración el año 2020 como un año con algunos datos atípicos producto del confinamiento.
 
-- 
 
  
 
