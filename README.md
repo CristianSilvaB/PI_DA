@@ -43,7 +43,7 @@ Cabe mencionar que en esta sección se tuvieron en cuenta los outliners para hac
 ### Dashboard
 
 Teniendo en cuenta los resultados del EDA, se realiza un Dashboard interactivo en Tableau, con el fin de presentar los datos de forma amigable para cualquiera fuera del mundo de la programación y el análisis de datos. 
-Este se encuentra disponible en este [link](https://public.tableau.com/app/profile/cristian.leonardo.silva.barbosa/viz/PI_DA/Historia1)
+Este se encuentra disponible en el siguiente [link](https://public.tableau.com/app/profile/cristian.leonardo.silva.barbosa/viz/PI_DA/Historia1)
 
 ## Análisis
 
