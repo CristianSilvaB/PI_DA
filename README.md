@@ -23,22 +23,22 @@ Se realizó un proceso ETL (Extracción, transformación y carga) en el cual se 
 ### EDA
 
 A partir de los datos transformados y unificados, se realizó un EDA (Análisis exploratorio de datos), para ello se vizualizaron medidas globales de las cuales se analizaron comportamientos recurrentes en víctimas y accidentes a partir de los siguientes criterios:
-    - Demográficos:
-         - Cantidad de víctimas fatales por año discriminadas por sexo.
-         -Cantidad de víctimas fatales por año según su sexo y rango de edad.
-         - Víctimas fatales según el vehículo que ocupaban.
-         - Víctimas fatales según el vehículo que ocupaban y sexo.
-         - Distribución de víctimas según el rol
-         - Distribución de víctimas según el rol, discriminadas por sexo
-         - Distribución según los participantes en los accidentes
-    - Espaciales:
-         - Accidentes según el tipo de vía
-         - Accidentes por comuna
-    - Temporales: 
-         - Número total de víctimas fatales por año
-         - Distribución de víctimas fatales por mes
-         -  Distribución de víctimas fatales por mes, gráficos anuales comparados
-         - Distribución de los accidentes con victimas fatales día por día a lo largo del mes
+- Demográficos:
+   - Cantidad de víctimas fatales por año discriminadas por sexo.
+   - Cantidad de víctimas fatales por año según su sexo y rango de edad.
+   - Víctimas fatales según el vehículo que ocupaban.
+   - Víctimas fatales según el vehículo que ocupaban y sexo.
+   - Distribución de víctimas según el rol
+   - Distribución de víctimas según el rol, discriminadas por sexo
+   - Distribución según los participantes en los accidentes
+- Espaciales:
+   - Accidentes según el tipo de vía
+   - Accidentes por comuna
+- Temporales:
+   - Número total de víctimas fatales por año
+   - Distribución de víctimas fatales por mes
+   - Distribución de víctimas fatales por mes, gráficos anuales comparados
+   - Distribución de los accidentes con victimas fatales día por día a lo largo del mes
 Cabe mencionar que en esta sección se tuvieron en cuenta los outliners para hacer análisis.
 ### Dashboard
 
@@ -89,11 +89,6 @@ Es importante tener en cuenta que durante el año 2020 se produjo una reducción
 
 - Al replantear y evaluar cualquier acción basada en estos análisis, es pertienente tomar en consideración el año 2020 como un año con algunos datos atípicos producto del confinamiento.
 
-
-
--
-
-- 
 
  
 
