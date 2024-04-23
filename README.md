@@ -42,7 +42,8 @@ A partir de los datos transformados y unificados, se realizó un EDA (Análisis 
 Cabe mencionar que en esta sección se tuvieron en cuenta los outliners para hacer análisis.
 ### Dashboard
 
-Teniendo en cuenta los resultados del EDA, se realiza un Dashboard interactivo en Tableau, con el fin de presentar los datos de forma amigable para cualquiera fuera del mundo de la programación y el análisis de datos.
+Teniendo en cuenta los resultados del EDA, se realiza un Dashboard interactivo en Tableau, con el fin de presentar los datos de forma amigable para cualquiera fuera del mundo de la programación y el análisis de datos. 
+Este se encuentra disponible en este [link](https://public.tableau.com/app/profile/cristian.leonardo.silva.barbosa/viz/PI_DA/Historia1)
 
 ## Análisis
 
@@ -62,7 +63,7 @@ Teniendo en cuenta los resultados del EDA, se realiza un Dashboard interactivo e
 - Los motociclistas y los peatones son más vulnerables a fallecer en un accidente vial. Estos datos proporcionan ua guía de hacia quien deberían encaminarse las campañas de prevención.
 - Los conductores tienen más víctimas fatales, seguidos por los peatones. Es pertinente evaluar la seguridad de los vehículos y su relación con la muerte del conductor.
 
-### Distribuvión espacial
+### Distribución espacial
 
 - La accidentalidad es más alta en las avenidas en comparación con otros tipos de vía. Se hipotetiza que esto se debe a que en la Avenida, la velocidad de los conductores es muy fluctuante. 
 - Las tres comunas con mayor cantidad de víctimas fatales son la 1, la 4 y la 9.
@@ -85,12 +86,10 @@ Es importante tener en cuenta que durante el año 2020 se produjo una reducción
 
 ## Conclusiones
 
-- Se evidencia que las víctimas mortales de los siniestros viales suelen tener alguna de estas características: estar en un rango de edad de entre los 16 y los 45 años de edad, ser hombre, conducir moto o ser peaton. Por lo que las politicas de prevención y las estrategias de seguridad vial deben estar dirigidas a estos grupos demográficos.
+- Se evidencia que las víctimas mortales de los siniestros viales suelen tener alguna de estas características: estar en un rango de edad de entre los 16 y los 45 años de edad, ser hombre, conducir moto o ser peatón. Por lo que las politicas de prevención y las estrategias de seguridad vial deben estar dirigidas a estos grupos demográficos.
 
 - Al replantear y evaluar cualquier acción basada en estos análisis, es pertienente tomar en consideración el año 2020 como un año con algunos datos atípicos producto del confinamiento.
 
-
- 
 
 
 
