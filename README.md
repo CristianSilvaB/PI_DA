@@ -12,7 +12,7 @@ En el caso particular de la ciudad de Buenos Aires, emerge una preocupación sig
 Por tanto, la importancia de un proyecto de esta envergadura radica en su capacidad para no solo llevar un seguimiento detallado de las estadísticas, sino también para evaluar y poner en práctica políticas destinadas a mitigar este problema de manera efectiva.
 
 ## Tecnologías utilizadas
-Para el desarrollo de este proyecto se utilizaron las siguientes tecnologías: Phyton 3.10, Pandas, NumPy, Warnings, GeoPy, matplotlib, seaborn, spicy, GoogleSheets y tableau. 
+Para el desarrollo de este proyecto se utilizaron las siguientes tecnologías: Phyton 3.10, Pandas, NumPy, GeoPy, Matplotlib, SeaBorn, SciPy, GoogleSheets y Tableau. 
 
 ## Metodología
 
